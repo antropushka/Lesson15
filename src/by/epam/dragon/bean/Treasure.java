@@ -1,4 +1,4 @@
-package by.epam.dragons.bean;
+package by.epam.dragon.bean;
 
 import java.io.Serializable;
 import java.util.Objects;

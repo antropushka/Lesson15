@@ -1,4 +1,4 @@
-package by.epam.dragons.controller.command;
+package by.epam.dragon.controller.command;
 
 public enum CommandName {
     MOST_EXPENSIVE,

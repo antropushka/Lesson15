@@ -1,6 +1,6 @@
-package by.epam.dragons.main;
+package by.epam.dragon.main;
 
-import by.epam.dragons.user_menu.UserMenu;
+import by.epam.dragon.user_menu.UserMenu;
 
 public class Main {
 

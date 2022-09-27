@@ -1,11 +1,11 @@
-package by.epam.dragons.user_menu;
+package by.epam.dragon.user_menu;
 
-import by.epam.dragons.controller.command.CaveController;
-import by.epam.dragons.controller.command.CommandName;
-import by.epam.dragons.controller.dto.Request;
-import by.epam.dragons.controller.dto.Response;
+import by.epam.dragon.controller.command.CaveController;
+import by.epam.dragon.controller.command.CommandName;
+import by.epam.dragon.controller.dto.Request;
+import by.epam.dragon.controller.dto.Response;
 
-import by.epam.dragons.view.DragonCaveConsoleOutput;
+import by.epam.dragon.view.DragonCaveConsoleOutput;
 
 import java.util.Scanner;
 

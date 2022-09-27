@@ -1,7 +1,7 @@
-package by.epam.dragons.main;
+package by.epam.dragon.main;
 
-import by.epam.dragons.bean.DragonCave;
-import by.epam.dragons.bean.Treasure;
+import by.epam.dragon.bean.DragonCave;
+import by.epam.dragon.bean.Treasure;
 
 import java.util.ArrayList;
 import java.util.List;

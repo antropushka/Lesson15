@@ -1,6 +1,6 @@
-package by.epam.dragons.controller.dto;
+package by.epam.dragon.controller.dto;
 
-import by.epam.dragons.bean.DragonCave;
+import by.epam.dragon.bean.DragonCave;
 
 public class Request {
 

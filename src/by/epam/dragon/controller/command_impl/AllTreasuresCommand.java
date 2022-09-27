@@ -1,10 +1,10 @@
-package by.epam.dragons.controller.command_impl;
+package by.epam.dragon.controller.command_impl;
 
-import by.epam.dragons.bean.Treasure;
-import by.epam.dragons.cave_logic.CaveLogic;
-import by.epam.dragons.controller.command.Command;
-import by.epam.dragons.controller.dto.Request;
-import by.epam.dragons.controller.dto.Response;
+import by.epam.dragon.bean.Treasure;
+import by.epam.dragon.cave_logic.CaveLogic;
+import by.epam.dragon.controller.command.Command;
+import by.epam.dragon.controller.dto.Request;
+import by.epam.dragon.controller.dto.Response;
 
 import java.util.List;
 

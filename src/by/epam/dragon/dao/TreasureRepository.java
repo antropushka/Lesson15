@@ -1,7 +1,7 @@
-package by.epam.dragons.dao;
+package by.epam.dragon.dao;
 
-import by.epam.dragons.bean.DragonCave;
-import by.epam.dragons.main.DragonCaveDatePutter;
+import by.epam.dragon.bean.DragonCave;
+import by.epam.dragon.main.DragonCaveDatePutter;
 
 public class TreasureRepository {
 

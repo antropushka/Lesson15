@@ -1,9 +1,9 @@
-package by.epam.dragons.controller.command;
+package by.epam.dragon.controller.command;
 
-import by.epam.dragons.controller.command_impl.AllTreasuresCommand;
-import by.epam.dragons.controller.command_impl.ByCostCommand;
-import by.epam.dragons.controller.command_impl.MostExpensiveCommand;
-import by.epam.dragons.controller.command_impl.NoSuchCommand;
+import by.epam.dragon.controller.command_impl.AllTreasuresCommand;
+import by.epam.dragon.controller.command_impl.ByCostCommand;
+import by.epam.dragon.controller.command_impl.MostExpensiveCommand;
+import by.epam.dragon.controller.command_impl.NoSuchCommand;
 
 import java.util.HashMap;
 import java.util.Map;

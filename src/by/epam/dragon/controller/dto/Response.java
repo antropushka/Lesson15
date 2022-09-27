@@ -1,6 +1,6 @@
-package by.epam.dragons.controller.dto;
+package by.epam.dragon.controller.dto;
 
-import by.epam.dragons.bean.Treasure;
+import by.epam.dragon.bean.Treasure;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package by.epam.dragons.controller.command;
+package by.epam.dragon.controller.command;
 
-import by.epam.dragons.controller.dto.Request;
-import by.epam.dragons.controller.dto.Response;
+import by.epam.dragon.controller.dto.Request;
+import by.epam.dragon.controller.dto.Response;
 
 public class CaveController {
 

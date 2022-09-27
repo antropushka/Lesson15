@@ -1,6 +1,6 @@
-package by.epam.dragons.view;
+package by.epam.dragon.view;
 
-import by.epam.dragons.bean.Treasure;
+import by.epam.dragon.bean.Treasure;
 
 import java.util.List;
 

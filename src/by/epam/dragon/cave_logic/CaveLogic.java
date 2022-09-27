@@ -1,8 +1,8 @@
-package by.epam.dragons.cave_logic;
+package by.epam.dragon.cave_logic;
 
-import by.epam.dragons.bean.DragonCave;
-import by.epam.dragons.bean.Treasure;
-import by.epam.dragons.dao.TreasureRepository;
+import by.epam.dragon.bean.DragonCave;
+import by.epam.dragon.bean.Treasure;
+import by.epam.dragon.dao.TreasureRepository;
 
 import java.util.ArrayList;
 import java.util.List;
